@@ -2,13 +2,13 @@
 
 ### I'm a Javascript Developer from **Lithuania**;
 
-* 💡 Passionate about technology and problem solution through programming; 
-* 👋 Willing to contribute in opensource development projects;
+* 💡 Passionate about technologies and problem solution through programming;
+* 👋 Willing to contribute to opensource development projects;
 * 📣 Open for collaborations in Javascript Stack.
 
 ***
 
-⚡  I’m currently working multiple projects using React.js, Vue.js 🛠 Node.js, Express.js ⚡ 
+⚡  I’m currently working with multiple projects using React.js, Vue.js 🛠 Node.js, Express.js ⚡ 
 
 ***
 
