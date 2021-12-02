@@ -28,5 +28,3 @@
 ***
 ⚡Make it work, make it right, make it fast⚡
 ***
-
-More info https://mickevic.netlify.app/
