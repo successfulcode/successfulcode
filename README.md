@@ -1,4 +1,4 @@
-## 😎 Hi there 👋, I'm Sergej Mickevic!
+## 😎 Hi there 👋
 
 ### I'm a Javascript Developer from **Lithuania**;
 
