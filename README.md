@@ -26,5 +26,5 @@
 </br>
 
 ***
-⚡Make it work, make it right, make it fast and don't repeat yourself :) ⚡
+⚡Make it work, make it right, make it fast. But don't repeat yourself :) ⚡
 ***
