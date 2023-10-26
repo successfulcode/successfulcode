@@ -8,7 +8,7 @@
 
 ***
 
-⚡  I’m currently working with multiple projects using Vue.js, Angular 🛠 Node.js ⚡ 
+⚡  I’m currently working with multiple projects using Vue.js, Angular, React, Next.js 🛠 Node.js ⚡ 
 
 ***
 
@@ -22,10 +22,3 @@
 <img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 
-
-</br>
-</br>
-
-***
-⚡Make it work, make it right, make it fast. But, don't repeat yourself :) ⚡
-***
