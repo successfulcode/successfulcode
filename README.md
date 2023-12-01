@@ -8,7 +8,7 @@
 
 ***
 
-⚡  I’m currently working with multiple projects using Vue.js, Angular, React.js 🛠 Node.js ⚡ 
+⚡  I’m currently working with multiple projects using Vue.js, Angular 🛠 Node.js ⚡ 
 
 ***
 
