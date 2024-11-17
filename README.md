@@ -1,10 +1,10 @@
 ## 😎 Hi there 👋
 
-### I'm a Javascript/Typescript Developer from **Lithuania**. My journey in the tech realm is fueled by a love for turning ideas into tangible solutions through code.
+### I'm a Developer from **Lithuania**. My journey in the tech realm is fueled by a love for turning ideas into tangible solutions through code.
 
 * 💡 Passionate about technologies and problem solution through programming;
 * 👋 Willing to contribute to opensource development projects;
-* 📣 Open for collaborations in Javascript Stack.
+* 📣 Open for collaborations.
 
 ***
 
